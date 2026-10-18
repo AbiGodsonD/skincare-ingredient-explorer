@@ -10,9 +10,9 @@ st.set_page_config(page_title="Skincare Ingredient Explorer", layout="wide")
 # ---------- Data loading ----------
 @st.cache_data
 def load_data():
-    ing = pd.read_csv("data/ingredients_master_enriched.csv")
-    rules = pd.read_csv("data/compatibility_rules.csv")
-    products = pd.read_csv("data/products_clean.csv")
+    ing = pd.read_csv("data/processed/ingredients_master_enriched.csv")
+rules = pd.read_csv("data/processed/compatibility_rules.csv")
+products = pd.read_csv("data/processed/products_clean.csv")
     products["ingredient_list"] = products["ingredient_list"].apply(ast.literal_eval)
     return ing, rules, products
 
