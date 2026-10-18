@@ -1,0 +1,44 @@
+ingredient_a,ingredient_b,status,reason
+Retinol,Vitamin C (L-Ascorbic Acid),caution,Different pH requirements can destabilize both; best used at separate times (AM/PM)
+Retinol,Glycolic Acid (AHA),avoid,Combined exfoliation raises irritation and barrier disruption risk
+Retinol,Salicylic Acid (BHA),avoid,Combined exfoliation raises irritation and barrier disruption risk
+Retinol,Benzoyl Peroxide,avoid,Benzoyl peroxide can oxidize and deactivate retinol; also compounds dryness
+Retinol,Vitamin E,synergy,Vitamin E can help buffer retinol-related irritation
+Retinol,Hyaluronic Acid,synergy,Hyaluronic acid counteracts retinol's drying effect
+Retinol,Niacinamide,synergy,Niacinamide reduces irritation while supporting retinol's barrier effects
+Retinol,Ceramides,synergy,Ceramides support barrier repair alongside retinol use
+Retinol,Bakuchiol,caution,Both target similar pathways; combining can increase irritation with limited added benefit
+Vitamin C (L-Ascorbic Acid),Niacinamide,caution,Older formulations could reduce efficacy of both; modern stable formulas mostly avoid this issue
+Vitamin C (L-Ascorbic Acid),Glycolic Acid (AHA),caution,Both require low pH; combined use can increase irritation
+Vitamin C (L-Ascorbic Acid),Salicylic Acid (BHA),caution,Both require low pH; combined use can increase irritation
+Vitamin C (L-Ascorbic Acid),Ferulic Acid,synergy,Ferulic acid stabilizes vitamin C and boosts antioxidant efficacy
+Vitamin C (L-Ascorbic Acid),Vitamin E,synergy,Classic antioxidant combination that boosts photoprotection
+Vitamin C (L-Ascorbic Acid),Benzoyl Peroxide,avoid,Benzoyl peroxide can oxidize and degrade vitamin C
+Vitamin C (L-Ascorbic Acid),Zinc Oxide,synergy,Antioxidant plus mineral sunscreen improves photoprotection
+Salicylic Acid (BHA),Glycolic Acid (AHA),caution,Layering multiple exfoliants increases irritation risk
+Salicylic Acid (BHA),Benzoyl Peroxide,caution,Both are drying; combined use can compromise the skin barrier
+Salicylic Acid (BHA),Niacinamide,synergy,Niacinamide can help offset BHA-related dryness and irritation
+Glycolic Acid (AHA),Benzoyl Peroxide,avoid,Combined use significantly increases irritation and barrier disruption
+Glycolic Acid (AHA),Lactic Acid (AHA),caution,Layering same-class acids increases irritation without added benefit
+Benzoyl Peroxide,Azelaic Acid,caution,Combined use can be drying; introduce gradually
+Benzoyl Peroxide,Hyaluronic Acid,synergy,Hyaluronic acid helps offset benzoyl peroxide's drying effect
+Niacinamide,Hyaluronic Acid,synergy,Complementary hydration and barrier support with no known conflict
+Niacinamide,Zinc Oxide,synergy,Niacinamide pairs well with mineral sunscreen ingredients
+Niacinamide,Azelaic Acid,synergy,Both are gentle brighteners that pair well for hyperpigmentation
+Azelaic Acid,Vitamin C (L-Ascorbic Acid),caution,Both can be irritating in combination; introduce gradually
+Hyaluronic Acid,Ceramides,synergy,Classic hydration-plus-barrier-repair pairing
+Hyaluronic Acid,Squalane,synergy,Humectant plus emollient locks in moisture effectively
+Ceramides,Squalane,synergy,Both support barrier repair and moisture retention
+Alpha Arbutin,Vitamin C (L-Ascorbic Acid),synergy,Combined brightening agents targeting different pigmentation pathways
+Alpha Arbutin,Niacinamide,synergy,Complementary brightening mechanisms with no known conflict
+Tranexamic Acid,Vitamin C (L-Ascorbic Acid),synergy,Combined brightening agents targeting different pigmentation pathways
+Kojic Acid,Vitamin C (L-Ascorbic Acid),caution,Both are sensitizing; combined use can increase irritation risk
+Centella Asiatica,Retinol,synergy,Soothing ingredient helps offset retinol-related irritation
+Centella Asiatica,Salicylic Acid (BHA),synergy,Soothing ingredient helps offset exfoliant-related irritation
+Bakuchiol,Vitamin C (L-Ascorbic Acid),synergy,Gentle retinol alternative pairs well with antioxidants
+Fragrance,Retinol,caution,Added irritation risk on already-sensitized skin from retinoids
+Fragrance,Salicylic Acid (BHA),caution,Added irritation risk on already-sensitized skin from exfoliants
+Alcohol Denat.,Retinol,caution,Can compound dryness and irritation
+Sulfur,Benzoyl Peroxide,caution,Both are drying antimicrobials; combined use raises irritation risk
+Witch Hazel,Retinol,caution,Astringent effect can compound retinol-related dryness
+Urea,Retinol,synergy,Urea's hydrating and gentle keratolytic action supports retinol tolerance

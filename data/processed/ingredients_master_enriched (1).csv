@@ -1,0 +1,73 @@
+ingredient,inci_alias,category,concern,oily,dry,combination,sensitive,ph_sensitivity,irritation_potential,time_of_use,function_description,has_real_function_data,real_usage_count
+Retinol,retinol,Exfoliant,Aging,3,3,4,1,2,4,PM,"This ingredient is an antioxidant that stimulates collagen production, treating fine lines, wrinkles and a reduction of elasticity in the skin which can naturally come with aging.  It exfoliates the skin, unclogging  pores, helping treat acne and blemishes and improving the overall appearance of the skin making it smooth and supple.",True,22
+Vitamin C (L-Ascorbic Acid),ascorbic acid,Antioxidant,Aging,4,3,4,2,5,3,AM,"Ascorbic acid is a powerhouse ingredient with evidence for collagen synthesis so can help make the skin firmer, helps with hyperpigmentation, dark spots, and uneven skin tone and is great for preventing damage from the sun by neutralising free radicals.
+
+Since ascorbic acid is already in the active form needed by the skin, no conversion is necessary, and if stabilised is highly potent.",True,43
+Niacinamide,niacinamide,Antioxidant,Hyperpigmentation,5,4,5,4,1,1,AM/PM,,False,68
+Hyaluronic Acid,sodium hyaluronate,Humectant,Hydration,4,5,5,5,1,1,AM/PM,,False,322
+Salicylic Acid (BHA),salicylic acid,Exfoliant,Acne,5,2,4,1,4,4,PM,"Salicylic acid offers benefits such as:
+- Exfoliates the skin's surface, promoting the removal of dead skin cells and debris, resulting in a smoother and more even complexion.
+- Penetrates deep into pores, helping to unclog and dissolve sebum and debris, making it effective for addressing and preventing acne.
+- Can help reduce the appearance of blackheads and whiteheads.
+- May have anti-inflammatory properties, contributing to the reduction of redness and swelling associated with acne.",True,85
+Glycolic Acid (AHA),glycolic acid,Exfoliant,Aging,4,3,4,1,5,4,PM,"Glycolic acid offers benefits such as:
+- Provides chemical exfoliation by dissolving dead skin cells on the skin's surface, promoting a smoother and more even skin texture.
+- Assists in improving the appearance of fine lines, wrinkles, and hyperpigmentation by stimulating collagen production and skin cell turnover.
+- Can help unclog pores and reduce the occurrence of acne and blackheads.
+- Enhances the absorption and effectiveness of other skincare ingredients in products applied afterward.",True,34
+Lactic Acid (AHA),lactic acid,Exfoliant,Hydration,3,4,4,2,4,3,PM,"Lactic acid offers benefits such as:
+- Acts as an exfoliant, helping to remove dead skin cells from the skin's surface, promoting a smoother and more even skin texture.
+- Supports the skin's natural moisture retention, providing hydration and improving the skin's barrier function.
+- Assists in reducing the appearance of fine lines, wrinkles, and hyperpigmentation.
+- Can help brighten the complexion, revealing a more radiant and youthful appearance.",True,100
+Benzoyl Peroxide,benzoyl peroxide,Antimicrobial,Acne,5,1,3,1,2,5,AM/PM,,False,0
+Azelaic Acid,azelaic acid,Antimicrobial,Acne,4,3,4,3,2,2,AM/PM,"Azelaic acid has antibacterial properties making it a good supplementary ingredient in the treatment of acne. It has anti-inflammatory properties making it a very effective treatment for rosacea, redness, and acne inflammation, and It has mild exfoliating properties and interferes with the melanin production process in the skin making it an effective ingredient for brightening and evening out the skin.",True,1
+Ceramides,ceramide,Occlusive,Hydration,3,5,4,5,1,1,AM/PM,"Ceramides help strengthen the skin's barrier, improving its ability to retain moisture and keep irritants out. They support the skin's natural repair and regeneration processes and contribute to a smoother, softer, and more supple skin texture. They can also help soothe and calm dry, irritated, or sensitive skin.",True,41
+Squalane,squalane,Emollient,Hydration,3,5,4,4,1,1,AM/PM,"Squalane offers benefits such as:
+- Acts as a highly effective emollient, providing immediate and long-lasting hydration to the skin, helping to improve moisture retention and maintain a soft and supple complexion.
+- Forms a protective barrier on the skin's surface, preventing moisture loss and protecting the skin from environmental stressors.
+- Can help balance oil production, making it beneficial for individuals with oily or acne-prone skin.",True,0
+Peptides,peptide,Antioxidant,Aging,3,4,4,4,2,1,AM/PM,,False,117
+Zinc Oxide,zinc oxide,Sunscreen,Sun Protection,4,3,4,5,1,1,AM,,False,10
+Titanium Dioxide,titanium dioxide,Sunscreen,Sun Protection,4,3,4,5,1,1,AM,,False,112
+Vitamin E,tocopherol,Antioxidant,Aging,3,4,4,3,1,1,AM/PM,"Vitamin E offers benefits such as:
+- Acts as a powerful antioxidant, helping to neutralize free radicals and protect the skin from environmental damage, such as UV rays and pollution.
+- Supports the skin's natural repair processes, promoting a healthier and more resilient complexion.
+- Assists in maintaining the skin's moisture balance, helping to prevent water loss and keep the skin well-hydrated.
+- Can improve skin texture and elasticity, contributing to a smoother and more youthful appearance.",True,359
+Ferulic Acid,ferulic acid,Antioxidant,Aging,3,3,4,3,2,1,AM,"Ferulic acid offers benefits such as:
+- Provides powerful antioxidant benefits, helping to neutralize free radicals and reduce oxidative stress on the skin.
+- Enhances the stability and effectiveness of other antioxidants, maximizing their protective capabilities.
+- May help protect the skin from UV-induced damage, although it is not a substitute for sunscreen.
+- Assists in promoting a more even skin tone and reducing the appearance of hyperpigmentation.",True,4
+Panthenol,panthenol,Humectant,Hydration,4,5,5,5,1,1,AM/PM,,False,134
+Centella Asiatica,centella asiatica,Soothing,Sensitivity,4,4,4,5,1,1,AM/PM,"It supports wound healing as well as providing anti-ageing benefits. It has also been shown to stimulate the production of hyaluronic acid in the skin, another molecule whose production slows with age, but is essential for keeping skin looking hydrated, plump & youthful.
+
+Centella Asiatica (or Gotu Kola or Tiger grass) is a family of ingredients. It can also be known as asiatic acid, asiaticoside, madecassic acid and madecassoside.",True,34
+Alpha Arbutin,arbutin,Brightening,Hyperpigmentation,4,3,4,3,2,1,AM/PM,,False,6
+Tranexamic Acid,tranexamic acid,Brightening,Hyperpigmentation,4,3,4,3,2,1,AM/PM,"Tranexamic acid offers benefits such as:
+- Targets and inhibits excess melanin production in the skin, making it effective in reducing the appearance of dark spots and hyperpigmentation.
+- Can help improve the overall evenness and clarity of the skin, promoting a more uniform complexion.
+- Assists in preventing the formation of new dark spots, making it beneficial for individuals with concerns about sun-induced discolorations or post-inflammatory hyperpigmentation.
+- Supports a more balanced and radiant skin tone, contributing to a youthful and healthy-looking appearance.",True,2
+Kojic Acid,kojic acid,Brightening,Hyperpigmentation,3,3,3,2,3,3,PM,"Kojic acid offers benefits such as:
+
+- Acts as a skin-brightening agent, helping to fade dark spots, age spots, and other forms of hyperpigmentation.
+- Supports an even skin tone, making it beneficial for individuals with sun damage or post-inflammatory hyperpigmentation.
+- May enhance the effectiveness of other skin-lightening ingredients when used in combination.",True,0
+Bakuchiol,bakuchiol,Exfoliant,Aging,3,4,4,3,1,2,AM/PM,Bakuchiol is thought to offer multiple benefits. It can improve skin firmness and treat fine lines whilst it also has antioxidant benefits to prevent from free radical damage.,True,3
+Urea,urea,Humectant,Hydration,3,4,3,3,1,2,AM/PM,"Urea offers benefits such as:
+- Acts as an effective moisturizer, helping to hydrate and soften the skin by attracting and retaining water.
+- Assists in exfoliation, as it can help to loosen and slough off dead skin cells, promoting a smoother and more refined skin texture.
+- Can improve the overall barrier function of the skin, supporting a stronger and healthier skin barrier.
+- Helps to alleviate dry and rough skin conditions, making it beneficial for individuals with dry or dehydrated skin.",True,102
+Glycerin,glycerin,Humectant,Hydration,4,5,5,5,1,1,AM/PM,,False,822
+Sodium Hyaluronate,sodium hyaluronate,Humectant,Hydration,4,5,5,5,1,1,AM/PM,,False,322
+Witch Hazel,witch hazel,Astringent,Acne,4,1,3,1,1,3,AM/PM,,False,0
+Sulfur,sulfur,Antimicrobial,Acne,3,1,2,1,3,4,PM,"Sulfur offers benefits such as:
+- Exhibits potential anti-inflammatory effects, helping to soothe and calm skin conditions such as acne and rosacea.
+- Possesses antimicrobial properties, assisting in fighting bacteria and fungi on the skin's surface.
+- May regulate excess oil production, making it beneficial for individuals with oily or acne-prone skin.",True,1
+Alcohol Denat.,alcohol denat,Solvent,Acne,3,1,2,1,1,3,AM/PM,,False,108
+Fragrance,parfum,Other,Sensitivity,3,3,3,1,1,3,AM/PM,,False,584
+Coconut Oil,coconut oil,Emollient,Hydration,1,4,2,3,1,1,AM/PM,,False,0
